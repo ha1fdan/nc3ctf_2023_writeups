@@ -1,3 +1,4 @@
+Vi har modtaget følgende kalender fra vores verdensberømte cyberkok. Han har bagt kage og hekset julegodter frem for blandt andre GCHQ.
 ```
 + -------------------- +
 |       DECEMBER       |
@@ -11,6 +12,8 @@
 | 3c 33 7d             |
 + -------------------- +
 ```
+
+---
 
 1. Åben [https://cyberchef.org](https://cyberchef.org/) - Vælg From Hex og i Input sæt ind fra `4e - 7d`
 2. Her er alle hex værdier i Cyberchef samt From hex -> [Link](https://cyberchef.org/#recipe=From_Hex('Auto')&input=NGUgNDMgMzMgN2IgNmUgNzUgMjAgNjUgNzIgMjAgNjQgNjUgNzQgMjAgNmEgNzUgNmMgNjUgNzQgNjkgNjQgMjAgNjkgNjcgNjUgNmUgMjEgMjAgM2MgMzMgN2Q)
