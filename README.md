@@ -1,7 +1,8 @@
 # NC3 CTF 2023 : Writeups
 
 Hold: TeamR
-Medlemmer:
+
+Hold Medlemmer:
 1. ha1fdan (Captain)
 2. HCLC
 3. NotAName
