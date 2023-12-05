@@ -2,3 +2,4 @@
 
 Opgaver:
 * Malware: Loading --> [Link](malware_loading)
+* Cyberkok: Hekseri --> [Link](cyberkok_hekseri)
