@@ -1,5 +1,5 @@
 Vi har modtaget følgende kalender fra vores verdensberømte cyberkok. Han har bagt kage og hekset julegodter frem for blandt andre GCHQ.
-```
+```txt
 + -------------------- +
 |       DECEMBER       |
 + -------------------- +
