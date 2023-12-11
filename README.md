@@ -15,4 +15,4 @@ Opgaver:
 * Cyberkok: Hekseri --> [Link](cyberkok_hekseri)
 * Kom godt i gang: Discord --> [Link](start_discord)
 * Kom godt i gang: One Time Slider --> [Link](start_one-time-slider)
-* 
+* Stego: Julemandens Gætteleg --> [Link](stego_julemandens-gaetteleg)
