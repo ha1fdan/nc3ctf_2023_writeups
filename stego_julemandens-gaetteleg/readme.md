@@ -1,6 +1,6 @@
 Nisserne har fundet denne fil på nissefars computer, kan du gætte, hvordan han har gemt data i den?
 
-Vedheftet fil: [Julemandens_Gætteleg](Julemandens_Gætteleg)
+Vedhæftet fil: [Julemandens_Gætteleg](Julemandens_Gætteleg)
 ---
 
 Ved at køre `file Julemandens_Gætteleg` vi får afvide: `Julemandens_Gætteleg: GIMP XCF image data`.
